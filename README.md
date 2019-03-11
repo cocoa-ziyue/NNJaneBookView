@@ -1,5 +1,5 @@
 # NNJaneBookView
-#### 仿简书个人主页多页面滑动视图。
+#### 仿简书、微博等个人主页多页面滑动视图。
 
 ##### 思路：
 - 导航栏上面的头像会随着视图的上下滑动而变大变小，这里注册了一个通知，用来监听视图的上下滑动，可以根据偏移量的值来改变头像的大小。
@@ -11,8 +11,9 @@
 ![效果图](https://github.com/liuzhongning/NNJaneBookView/blob/master/GIF/jianshu.gif)
 
 
-- 博客地址 http://www.jianshu.com/p/c82a83fd400a ,如有疑问或有建议的地方，欢迎讨论。
-
+- 博客地址 https://www.jianshu.com/u/f0b11432b297 ,如有疑问或有建议的地方，欢迎讨论。
+- QQ群
+  674228487
 
 ### License
 
